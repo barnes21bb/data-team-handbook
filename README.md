@@ -16,3 +16,10 @@ The Handbook for Data and Analytics at Simmons Foods
   - then choose the active DB, schema, and warehouse
   
 </details>
+
+[test](test_name.md)
+
+## Team Structure
+
+For details on our team organization and roles, please refer to the [Team Structure Document](TEAM_STRUCTURE.md).
+lkjlkj
