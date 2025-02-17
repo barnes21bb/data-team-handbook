@@ -4,7 +4,7 @@ title: "Enterprise Data Warehouse"
 
 ## Enterprise Data Warehouse Overview
 
-The Enterprise Data Warehouse (EDW) is used for reporting and analysis. It is a central repository of current and historical data from GitLab's Enterprise Applications. We use an ELT method to Extract, Load, and Transform data in the EDW. We use Snowflake as our EDW and use [dbt](/handbook/enterprise-data/platform/dbt-guide/) to transform data in the EDW. The [Data Catalog](/handbook/enterprise-data/data-catalog/) contains Analytics Hubs, Data Guides, Data Dictionaries, and Analysis for the data models built in the EDW.
+The Enterprise Data Warehouse (EDW) is used for reporting and analysis. It is a central repository of current and historical data from GitLab's Enterprise Applications. We use an ELT method to Extract, Load, and Transform data in the EDW. We use Snowflake as our EDW and use [dbt](/handbook/enterprise-data/platform/dbt-guide.md) to transform data in the EDW. The [Data Catalog](/handbook/enterprise-data/data-catalog/) contains Analytics Hubs, Data Guides, Data Dictionaries, and Analysis for the data models built in the EDW.
 
 The Production Database in the EDW is used for reporting and analysis by Data Consumers at GitLab. It is composed of 4 major schemas which are `COMMON_`, `SPECIFIC`, `LEGACY_` and `WORKSPACE_` schemas. Below are descriptions of each Schema:
 
