@@ -1,8 +1,4 @@
----
-title: "dbt Guide"
-description: "data build tool (dbt) Guide"
-math: true
----
+# data build tool (dbt) Guide
 
 ## Quick Links
 
