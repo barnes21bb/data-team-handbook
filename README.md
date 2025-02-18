@@ -1,6 +1,10 @@
 # data_team_handbook
 The Handbook for Data and Analytics at Simmons Foods
 
+## Planning our work
+
+- Plans - Goals - Projects - Epics - Stories - Tasks - Subtasks oh my
+
 ## VS Code Setup
 
 <details>
@@ -16,10 +20,3 @@ The Handbook for Data and Analytics at Simmons Foods
   - then choose the active DB, schema, and warehouse
   
 </details>
-
-[test](test_name.md)
-
-## Team Structure
-
-For details on our team organization and roles, please refer to the [Team Structure Document](TEAM_STRUCTURE.md).
-lkjlkj
